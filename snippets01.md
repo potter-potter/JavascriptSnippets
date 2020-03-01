@@ -1,4 +1,5 @@
 Just my personal resource for good snippets.
+Actually not very good
 
 Snippets from:
 vanillajstoolkit.com
